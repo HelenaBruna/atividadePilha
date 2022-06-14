@@ -96,7 +96,7 @@ int main()
 		InserirImpar(impar, valorNumero);
 	}
 
-	for (int i = 2; i < MAX; i++)
+	for (int i = 2; i <= MAX; i++)
 	{
 		valorAux = valorNumero;
 
